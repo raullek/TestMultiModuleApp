@@ -1,4 +1,4 @@
-package ru.sberbank.core.di.module
+    package ru.sberbank.core.di.module
 
 import android.app.Application
 import android.content.Context

@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "1072285312537",
+    "firebase_url": "https://testmultimoduleapp.firebaseio.com",
+    "project_id": "testmultimoduleapp",
+    "storage_bucket": "testmultimoduleapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072285312537:android:ee92f67c0ae48a69396c88",
+        "android_client_info": {
+          "package_name": "ru.sberbank.authorization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgpGr_OxGomDCGjW2gfRd5A_keWpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072285312537:android:9587463502a9e887396c88",
+        "android_client_info": {
+          "package_name": "ru.sberbank.core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgpGr_OxGomDCGjW2gfRd5A_keWpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072285312537:android:cf10adc46dc185d8396c88",
+        "android_client_info": {
+          "package_name": "ru.sberbank.testmultimoduleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072285312537-pqs4bmqlfknsf5u42de7ciu2b4gd37cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.sberbank.testmultimoduleapp",
+            "certificate_hash": "11586176876276bd73bbef40e3bc5c07344948bb"
+          }
+        },
+        {
+          "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk8PgpGr_OxGomDCGjW2gfRd5A_keWpWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072285312537-m0o2v00abh7euf7puaoeven8hslla694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

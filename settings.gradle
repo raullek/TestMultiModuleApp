@@ -1,4 +1,5 @@
+include ':core-api'
 include ':authorization'
-include ':core'
+include ':core-impl'
 include ':app'
 rootProject.name = "TestMultiModuleApp"
